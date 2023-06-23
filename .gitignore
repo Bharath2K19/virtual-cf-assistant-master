@@ -1,0 +1,55 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.sln
+*.xcodeproj
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.class
+*.pyc
+*.pyo
+
+# Environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+desktop.ini
